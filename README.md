@@ -1,4 +1,4 @@
-<img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
+<img src="https://github.com/farzana876/farzana_profile/blob/main/image/images.jpg" width="100%" alt="Image description">
 <h1>Hi there, I'm Ujjal K. Saha 👋</h1>
 <h3 align="left">Sr. Project Manager @ BJIT Ltd. | ICT Instructor @ BJET & BJIT Academy</h3>
 I'm a passionate Full Stack Web Developer from Bangladesh with over 10 years of experience in building web applications using PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, mongoDB, etc. I have a strong foundation in web techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
